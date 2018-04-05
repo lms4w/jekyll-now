@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! This is a demo site that I am using to learn *[Jekyll]* (https://jekyllrb.com/)
 
-### More Information
+## More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This page is created using **Markdown**.
 
 ### Contact me
 
