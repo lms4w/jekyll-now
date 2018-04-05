@@ -1,4 +1,6 @@
-
+---
+layout:page
+---
 
 Hello! This is a demo site that I am using to learn [Jekyll](https://jekyllrb.com/)
 
