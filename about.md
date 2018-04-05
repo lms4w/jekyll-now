@@ -1,4 +1,4 @@
-##Table Demo##
+
 ---
 layout: page
 title: About
